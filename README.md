@@ -1,13 +1,23 @@
 
 # AR-WEB-TEST 
 
-Test AR aplication on web devices
+Test web application developed in AR.js
 
-Development in  AR.js - Augmented Reality on the Web
+Using this bookmark with the following QR :
+
+![alt text](https://aaranda.es/AR/ar-web-test/res/TestBurguer.png)
+
+https://aaranda.es/AR/ar-web-test/res/TestBurguer.png
+
+With any QR reader you are redirected to the page, and using the same marker you can represent a 3D object in AR.
+
+It is an interesting idea, for example to make interactive menus for restaurants, together with programs like Capture Reality you could elaborate the different dishes of a menu in 3D, showing associated information such as price and ingredients.
+
+Source code of the project at https://github.com/alexwing/ar-web-test
+
 
 ---
-
-## Troubleshooting, feature requests, community
+## Development in  AR.js - Augmented Reality on the Web
 
 **You can find a lot of help on the old [AR.js repositories issues](https://github.com/jeromeetienne/AR.js/issues). Please search on open/closed issues, you may find interesting stuff.**
 
